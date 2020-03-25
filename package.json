@@ -1,0 +1,24 @@
+{
+  "name": "12-employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rfilkin/12-Employee-Tracker.git"
+  },
+  "author": "Robert Filkin",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.2",
+    "mysql": "^2.18.1",
+    "sql": "^0.78.0"
+  },
+  "bugs": {
+    "url": "https://github.com/rfilkin/12-Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/rfilkin/12-Employee-Tracker#readme"
+}
