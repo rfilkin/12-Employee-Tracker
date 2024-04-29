@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "console.table": "^0.10.0",
-    "inquirer": "^9.2.18",
+    "inquirer": "^9.2.20",
     "mysql": "^2.18.1",
     "sql": "^0.78.0"
   },
